@@ -1,0 +1,114 @@
+body {
+    background-image: url("../dark_burgerimg.jpg");
+}
+
+.title {
+    text-align: center;
+    color: white;
+}
+
+.toBeDevoured {
+    color: white;
+}
+.queue {
+    color: white;
+    text-align: left;
+}
+
+label {
+    color: white;
+    text-align: center;
+}
+
+#burger {
+    justify-content: center;
+}
+
+.burgers-devoured {
+    color: white;
+}
+
+h1 {
+    color: purple;
+    text-align: center;
+}
+
+h3 {
+    margin-left: 5px;
+}
+
+li {
+    background: #faebd7;
+    list-style-type: none;
+}
+
+.burgers {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width: 410px;
+}
+
+.burger {
+    width: 275px;
+    height: 30px;
+    padding-left: 5px;
+    padding-top: 10px;
+    margin: 5px;
+    text-transform: capitalize;
+}
+
+.devourButton {
+    width: 110px;
+    height: 30px;
+    padding: 5px;
+    margin: 10px 5px 10px 5px;
+}
+
+.burgers-all {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.burgers-devoured,
+.burgers-undevoured {
+    width: 285px;
+}
+
+#burger-input {
+    display: flex;
+    flex-direction: row;
+    width: 250px;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 10px;
+    left: 0;
+    right: 0;
+    justify-content: center;
+}
+
+#burger-submit {
+    display: flex;
+    flex-direction: row;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    padding-left: 10px;
+    left: 0;
+    right: 0;
+    justify-content: center;
+    height: 30px;
+    padding: 5px;
+    background-color: lawngreen;
+}
+
+.create-update-form {
+    padding: 5px;
+    background: aqua;
+}
+
+.form-group {
+    margin-bottom: 5px;
+}
