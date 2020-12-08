@@ -14,7 +14,9 @@
   
 ## Description:
   Burger App is a node.js application that allows users to enter their favorite burgers and devour them when they're hungry!
-![screenshot](burgerapp.jpg)
+
+![screenshot](burgerapp.png)
+
   ## Installation Instructions:
   
   1. Download [repository](https://github.com/heathernev88/burger-app)
